@@ -1,9 +1,9 @@
-Project Details
+**Project Details**
 
-Project Name: Implement Client Script & UI Policy (Incident)  
-Team ID: SWTID-2026-6539  
-Institution: Sree Sastha Institute of Engineering & Technology  
-Department: B.E. Artificial Intelligence and Machine Learning  
+**Project Name:** Implement Client Script & UI Policy (Incident)  
+**Team ID:** SWTID-2026-6539  
+**Institution:** Sree Sastha Institute of Engineering & Technology  
+**Department:** B.E. Artificial Intelligence and Machine Learning  
 
 **Team Members**
 | 1 | Sri Lekha B.(Team Leader)
